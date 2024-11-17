@@ -37,7 +37,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/emotion-recognition.git
+git clone https://github.com/ibrahim-02/facial-emotion-recognition.git
 Install required dependencies:
 
 bash
@@ -66,7 +66,6 @@ bash
 Copy code
 emotion-recognition/
 │
-├── fer2013.csv                  # FER2013 dataset
 ├── fer.json                     # Model architecture
 ├── fer.h5                       # Pre-trained weights
 ├── video_tester.py              # Real-time emotion detection script
